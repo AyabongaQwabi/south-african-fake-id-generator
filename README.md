@@ -1,4 +1,4 @@
-# South African Fake Id Generator
+# 🇿🇦 South African Fake Id Generator
 
 ![Travis (.com)](https://img.shields.io/travis/com/AyabongaQwabi/south-african-fake-id-generator?style=for-the-badge)
 
@@ -9,6 +9,8 @@
 This package generates valid and invalid fake (random) South African Identity numbers.
 
 This library can also check if the ID number supplied is a valid SouthAfrican ID number.
+
+> To find out more about the structure of a South African ID number visit this [link](https://www.westerncape.gov.za/general-publication/decoding-your-south-african-id-number-0)
 
 ### How to use it?
 Download the library from NPM using the following command in a terminal:
