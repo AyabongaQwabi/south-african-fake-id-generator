@@ -22,7 +22,7 @@
   "bugs": {
     "url": "https://github.com/AyabongaQwabi/south-african-fake-id-generator/issues"
   },
-  "homepage": "https://github.com/AyabongaQwabi/south-african-fake-id-generator#readme",
+  "homepage": "https://fakeidgen.netlify.app",
   "dependencies": {
     "moment": "^2.27.0",
     "south-african-id-parser": "^1.0.0"
