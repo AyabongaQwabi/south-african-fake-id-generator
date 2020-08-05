@@ -4,7 +4,7 @@
 
 ![npm bundle size](https://img.shields.io/bundlephobia/min/south-african-fake-id-generator?style=for-the-badge)
 
-![David](https://img.shields.io/david/dev/AyabongaQwabi/south-african-fake-id-generator?style=for-the-badge)
+![David](https://img.shields.io/david/ayabongaqwabi/south-african-fake-id-generator?style=for-the-badge)
 ### What does it do?
 This package generates valid and invalid fake (random) South African Identity numbers.
 
