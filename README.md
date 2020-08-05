@@ -1,6 +1,6 @@
 # South African Fake Id Generator
 ### What does it do?
-This package generates valid and invalid random South African Identity numbers.
+This package generates valid and invalid fake (random) South African Identity numbers.
 
 This library can also check if the ID number supplied is a valid SouthAfrican ID number.
 
