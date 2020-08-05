@@ -5,8 +5,10 @@
 
 ![npm bundle size](https://img.shields.io/bundlephobia/min/south-african-fake-id-generator?style=for-the-badge)
 
-![David](https://img.shields.io/david/ayabongaqwabi/south-african-fake-id-generator?style=for-the-badge)
+![David](https://img.shields.io/david/ayabongaqwabi/south-african-fake-id-generator?style=for-the-badge
+
 ### What does it do?
+
 This package generates valid and invalid fake (random) South African Identity numbers.
 
 This library can also check if the ID number supplied is a valid SouthAfrican ID number.
@@ -14,6 +16,7 @@ This library can also check if the ID number supplied is a valid SouthAfrican ID
 > To find out more about the structure of a South African ID number visit this [link](https://www.westerncape.gov.za/general-publication/decoding-your-south-african-id-number-0)
 
 ### How to use it?
+
 Download the library from NPM using the following command in a terminal:
 ```
 
@@ -33,10 +36,12 @@ Download the library from NPM using the following command in a terminal:
  var fakeId = fakeSaIdGenerator.generateInvalidFakeId();
 
  // Generate valid random id number by age
- var fakeId = fakeSaIdGenerator.generateFakeIdByAge(23);
+ var fakeId = fakeSaIdGenerator.generateFakeIdByAge('23'); 
+ 
+ // Note: age input parameter is a string 
 
  // Generate invalid random id number by age
- var fakeId = fakeSaIdGenerator.generateInvalidFakeIdByAge(78);
+ var fakeId = fakeSaIdGenerator.generateInvalidFakeIdByAge('78');
 
  // Check if Id number is valid
  var fakeId = fakeSaIdGenerator.isValid(9701286633088);  // false
