@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://gitlab.com/ayabongaqwabi1/south-african-fake-id-generator/issues"
   },
-  "homepage": "https://gitlab.com/ayabongaqwabi1/south-african-fake-id-generator#readme"
+  "homepage": "https://gitlab.com/ayabongaqwabi1/south-african-fake-id-generator#readme",
+  "dependencies": {
+    "south-african-id-parser": "^1.0.0"
+  }
 }
