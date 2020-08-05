@@ -1,0 +1,26 @@
+{
+  "name": "south-african-fake-id-generator",
+  "version": "1.0.1",
+  "description": "This package generates valid fake south african id numbers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/ayabongaqwabi1/south-african-fake-id-generator.git"
+  },
+  "keywords": [
+    "South",
+    "Africa",
+    "Fake",
+    "Id",
+    "Generator"
+  ],
+  "author": "Ayabonga Qwabi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/ayabongaqwabi1/south-african-fake-id-generator/issues"
+  },
+  "homepage": "https://gitlab.com/ayabongaqwabi1/south-african-fake-id-generator#readme"
+}
