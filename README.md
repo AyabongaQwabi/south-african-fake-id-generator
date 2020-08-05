@@ -1,4 +1,12 @@
 # South African Fake Id Generator
+
+[![Build Status](https://travis-ci.com/AyabongaQwabi/south-african-fake-id-generator.svg?branch=master)](https://travis-ci.com/AyabongaQwabi/south-african-fake-id-generator)
+
+[[![Node version](https://img.shields.io/node/v/[NPM-MODULE-NAME].svg?style=flat)](http://nodejs.org/download/)](https://img.shields.io/bundlephobia/min/south-african-fake-id-generator?style=for-the-badge)
+
+[![NPM](https://nodei.co/npm/south-african-fake-id-generator.png)](https://nodei.co/npm/south-african-fake-id-generator/)
+
+![David](https://img.shields.io/david/dev/AyabongaQwabi/south-african-fake-id-generator?style=for-the-badge)
 ### What does it do?
 This package generates valid and invalid fake (random) South African Identity numbers.
 
