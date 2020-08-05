@@ -1,0 +1,8 @@
+stages:
+    - test
+
+  .job_template: &test
+    stage: test
+    script:
+      - npm install
+      - npm run test
