@@ -1,6 +1,6 @@
 # South African Fake Id Generator
 
-[![Build Status](https://travis-ci.com/AyabongaQwabi/south-african-fake-id-generator.svg?branch=master)](https://travis-ci.com/AyabongaQwabi/south-african-fake-id-generator)
+![Travis (.com)](https://img.shields.io/travis/com/AyabongaQwabi/south-african-fake-id-generator?style=for-the-badge)
 
 ![npm bundle size](https://img.shields.io/bundlephobia/min/south-african-fake-id-generator?style=for-the-badge)
 
