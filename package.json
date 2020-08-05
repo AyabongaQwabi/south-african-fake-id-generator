@@ -24,6 +24,7 @@
   },
   "homepage": "https://gitlab.com/ayabongaqwabi1/south-african-fake-id-generator#readme",
   "dependencies": {
+    "moment": "^2.27.0",
     "south-african-id-parser": "^1.0.0"
   }
 }
