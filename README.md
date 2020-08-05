@@ -1,4 +1,5 @@
 # 🇿🇦 South African Fake Id Generator
+[Demo](https://fakeidgen.netlify.app)
 
 ![Travis (.com)](https://img.shields.io/travis/com/AyabongaQwabi/south-african-fake-id-generator?style=for-the-badge)
 
