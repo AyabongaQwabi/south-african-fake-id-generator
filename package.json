@@ -1,6 +1,6 @@
 {
   "name": "south-african-fake-id-generator",
-  "version": "1.0.13",
+  "version": "1.0.14",
   "description": "This package generates valid fake south african id numbers.",
   "main": "index.js",
   "scripts": {
