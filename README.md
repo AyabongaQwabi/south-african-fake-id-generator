@@ -1,11 +1,12 @@
-# 🇿🇦 South African Fake Id Generator
-[Demo](https://fakeidgen.netlify.app)
+# 🇿🇦 South African Fake Id Generator (DummySAID API)
+[Demo](https://said.touch.net.za) | [Docs](https://dummysaid.touch.net.za) | [About Midas Touch Tech](https://touch.net.za) |
 
 ![Travis (.com)](https://img.shields.io/travis/com/AyabongaQwabi/south-african-fake-id-generator?style=for-the-badge)
 
 ![npm bundle size](https://img.shields.io/bundlephobia/min/south-african-fake-id-generator?style=for-the-badge)
 
-![David](https://img.shields.io/david/ayabongaqwabi/south-african-fake-id-generator?style=for-the-badge)
+
+![Implementation](https://saiddocs.touch.net.za/css/dummysaid.png)
 
 ### What does it do?
 
